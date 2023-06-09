@@ -1,1 +1,2 @@
 Hello world I am using Git.
+I am adding more to test git's staging and commiting
